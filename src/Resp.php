@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Mix\Redis\Subscriber;
+namespace Mix\Redis\Subscribe;
 
 use Exception;
 
